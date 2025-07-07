@@ -1,0 +1,672 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.philips-software/SPDXMerge",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/55b0ed5f-c7a7-4441-9cea-2c5419d4de7c",
+    "creationInfo": {
+        "creators": [
+            "Tool: protobom-v0.0.0-20250527210659-e12acc2c8770+dirty",
+            "Tool: GitHub.com-Dependency-Graph"
+        ],
+        "created": "2025-05-28T13:42:26Z"
+    },
+    "packages": [
+        {
+            "name": "pytest",
+            "SPDXID": "SPDXRef-pypi-pytest-8.1.1-75c946",
+            "versionInfo": "8.1.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2004 Holger Krekel and others, Copyright (c) 2014, Gregory Boissinot, copyright 2015, holger krekel and pytest-dev team, Copyright Holger Krekel and others, 2004",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pytest@8.1.1"
+                }
+            ]
+        },
+        {
+            "name": "pylint",
+            "SPDXID": "SPDXRef-pypi-pylint-3.1.0-75c946",
+            "versionInfo": "3.1.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "GPL-2.0-or-later",
+            "copyrightText": "Copyright (c) 1989, 1991 Free Software Foundation, Inc., Copyright (c) https://github.com/pylint-dev/pylint/blob/main/CONTRIBUTORS.txt, copyright f'2003, copyrighted by the Free Software Foundation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pylint@3.1.0"
+                }
+            ]
+        },
+        {
+            "name": "platformdirs",
+            "SPDXID": "SPDXRef-pypi-platformdirs-4.3.6-75c946",
+            "versionInfo": "4.3.6",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2010-202x The platformdirs",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/platformdirs@4.3.6"
+                }
+            ]
+        },
+        {
+            "name": "com.google.guava:guava",
+            "SPDXID": "SPDXRef-maven-com.google.guava-guava-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:maven/com.google.guava/guava"
+                }
+            ]
+        },
+        {
+            "name": "org.webjars:bootstrap",
+            "SPDXID": "SPDXRef-maven-org.webjars-bootstrap-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:maven/org.webjars/bootstrap"
+                }
+            ]
+        },
+        {
+            "name": "org.webjars:bootstrap",
+            "SPDXID": "SPDXRef-maven-org.webjars-bootstrap-5.3.5-75c946",
+            "versionInfo": "5.3.5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:maven/org.webjars/bootstrap@5.3.5"
+                }
+            ]
+        },
+        {
+            "name": "pyparsing",
+            "SPDXID": "SPDXRef-pypi-pyparsing-3.2.1-75c946",
+            "versionInfo": "3.2.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pyparsing@3.2.1"
+                }
+            ]
+        },
+        {
+            "name": "ply",
+            "SPDXID": "SPDXRef-pypi-ply-3.11-75c946",
+            "versionInfo": "3.11",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "copyrightText": "Copyright (c) 2001-2018 David M. Beazley, Copyright (c) 2001-2018 David M. Beazley (Dabeaz LLC), David Beazley (http://www.dabeaz.com) Copyright (c) 2007",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/ply@3.11"
+                }
+            ]
+        },
+        {
+            "name": "isort",
+            "SPDXID": "SPDXRef-pypi-isort-5.13.2-75c946",
+            "versionInfo": "5.13.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/isort@5.13.2"
+                }
+            ]
+        },
+        {
+            "name": "pyyaml",
+            "SPDXID": "SPDXRef-pypi-pyyaml-6.0.2-75c946",
+            "versionInfo": "6.0.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2006-2016 Kirill Simonov, Copyright (c) 2017-2021 Ingy dot Net",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.2"
+                }
+            ]
+        },
+        {
+            "name": "pluggy",
+            "SPDXID": "SPDXRef-pypi-pluggy-1.5.0-75c946",
+            "versionInfo": "1.5.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2015 holger krekel (rather uses bitbucket/hpk42), copyright 2016, Holger Krekel",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pluggy@1.5.0"
+                }
+            ]
+        },
+        {
+            "name": "dill",
+            "SPDXID": "SPDXRef-pypi-dill-0.3.9-75c946",
+            "versionInfo": "0.3.9",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+            "copyrightText": "Copyright (c) 2004-2016 California Institute of Technology, Copyright (c) 2008-2010 Marius Gedminas \u003cmarius@pov.lt\u003e, Copyright (c) 2008-2015 California Institute of Technology, Copyright (c) 2008-2016 California Institute of Technology, Copyright (c) 2009 PiCloud, Inc. \u003chttp://www.picloud.com\u003e, Copyright (c) 2010 Stefano Rivera \u003cstefano@rivera.za.net\u003e, Copyright (c) 2011 by science+computing, Copyright (c) 2012, Regents of the University of California, Copyright (c) 2016-2024 The Uncertainty Quantification Foundation, Copyright (c) 2018-2024 The Uncertainty Quantification Foundation, Copyright (c) 2019-2024 The Uncertainty Quantification Foundation, Copyright (c) 2021-2024 The Uncertainty Quantification Foundation, Copyright (c) 2022-2024 The Uncertainty Quantification Foundation, Copyright (c) 2023-2024 The Uncertainty Quantification Foundation, Copyright (c) 2024 The Uncertainty Quantification Foundation, copyright d, The Uncertainty Quantification Foundation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/dill@0.3.9"
+                }
+            ]
+        },
+        {
+            "name": "license-expression",
+            "SPDXID": "SPDXRef-pypi-license-expression-30.4.1-75c946",
+            "versionInfo": "30.4.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "Copyright (c) 2008-2020 The pip developers, Copyright (c) 2010 David Wolever . All rights reserved., Copyright (c) 2010 David Wolever \u003cdavid@wolever.net\u003e, Copyright (c) 2019 Giovanni Bussi, Copyright (c) Giovanni Bussi, Copyright (c) nexB Inc., Copyright (c) nexB Inc. and others., Copyright (c) nexB Inc. and others. All rights reserved., copyright 2010 David Wolever \u003cdavid@wolever.net\u003e, copyright nexB Inc. and others",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/license-expression@30.4.1"
+                }
+            ]
+        },
+        {
+            "name": "beartype",
+            "SPDXID": "SPDXRef-pypi-beartype-0.20.0-75c946",
+            "versionInfo": "0.20.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2014-2025 Beartype, COPYRIGHT 2014-2025 Beartype authors, copyright 2021, @leycec",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/beartype@0.20.0"
+                }
+            ]
+        },
+        {
+            "name": "semantic-version",
+            "SPDXID": "SPDXRef-pypi-semantic-version-2.10.0-75c946",
+            "versionInfo": "2.10.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause",
+            "copyrightText": "Copyright (c) The python-semanticversion project, copyright u'2012-2019, The python-semanticversion project",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/semantic-version@2.10.0"
+                }
+            ]
+        },
+        {
+            "name": "spdx-tools",
+            "SPDXID": "SPDXRef-pypi-spdx-tools-0.8.3-75c946",
+            "versionInfo": "0.8.3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) Chris Sainty, (c) Copyright 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Hewlett-Packard Development Company, (c) Copyright 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Hewlett-Packard Development Company, LP, (c) Copyright 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Hewlett-Packard Development Company, LP Apache Software Foundation Hewlett Packard Inc., (c) Copyright 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Hewlett-Packard Development Company, LP Apache Software Foundation spdx:licenseInfoInFile rdf:resource http://spdx.org/spdxdocs/spdx-example-444504E0-4F89-41D3-9A0C-0305E82C3301, (c) Copyright 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Hewlett-Packard Development Company, LP FileContributor Apache Software Foundation FileContributor Hewlett Packard Inc., (c) Copyright 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Hewlett-Packard Development Company, LP', fileContributors Apache Software Foundation', Hewlett Packard Inc., (c) Copyright 2002-2005, Andy Clark, (c) Copyright 2007 Hewlett-Packard Development Company, (c) Copyright 2009 University of Bristol, 2022 spdx contributors, 2023 spdx contributors, 2023 SPDX Contributors, 2024 spdx contributors, Copyright (c) 1989, 1991 Free Software Foundation, Inc., Copyright (c) 1991 Free Software Foundation, Inc., copyright (c) 2000-2003, BEA Systems, \u003chttp://www.bea.com/\u003e PackageComment ModificationRecord, Copyright (c) 2001 Aaron Lehmann aaroni@vitelus.com, Copyright (c) 2014 Ahmed H. Ismail, Copyright (c) 2020 Yash Varshney, Copyright (c) 2022 spdx contributors, Copyright (c) 2023 spdx contributors, Copyright (c) spdx contributors, Copyright 2001-2011 The Apache Software Foundation, Copyright 2001-2011 The Apache Software Foundation', fileContributors Apache Software Foundation, Copyright 2001-2011 The Apache Software Foundation', fileContributors' Apache Software Foundation, Copyright 2007 Hewlett-Packard Development Company, Copyright 2008-2010 John, Copyright 2008-2010 John Smith, Copyright 2008-2010 John Smith , SnippetComment, Copyright 2008-2010 John Smith FileNotice, Copyright 2008-2010 John Smith PackageSummary GNU, Copyright 2008-2010 John Smith SnippetComment, Copyright 2008-2010 John Smith The Regents of the University of California, Copyright 2008-2010 John Smith', fileContributors The Regents of the University of California, Copyright 2008-2010 John Smith', fileContributors' The Regents of the University of California, Copyright 2008-2010 John Smith', None, None, Copyright 2010, 2011 Source Auditor Inc., Copyright 2010, 2011 Source Auditor Inc. FileContributor Protecode Inc. FileContributor SPDX Technical Team, Copyright 2010, 2011 Source Auditor Inc. Open Logic Inc., Copyright 2010, 2011 Source Auditor Inc. Protecode Inc. SPDX Technical Team Members Open Logic Inc. Source Auditor Inc. Black Duck Software, Copyright 2010, 2011 Source Auditor Inc.', fileContributors Protecode Inc.', SPDX Technical Team Members, Copyright 2010, 2011 Source Auditor Inc.', fileContributors' Protecode, Copyright 2014 Acme Inc., Copyright 2014 Acme Inc. , FileComment Very, Copyright 2014 Acme Inc. , PackageLicenseDeclared, Copyright 2022 Jane, Copyright 2022 spdx contributors, Copyright 2023 spdx contributors, Copyright 2023 SPDX Contributors, Copyright 2024 spdx contributors, Copyright Saxonica Ltd, Copyright Saxonica Ltd PackageDescription The Saxon, Copyright Saxonica Ltd spdx:licenseDeclared rdf:resource http://spdx.org/licenses/MPL-1.0, copyrighted by the Free Software Foundation, FileCopyrightText Copyright 2001-2011 The Apache Software Foundation FileNotice Apache, Jena Copyright 2001-2011 The Apache Software Foundation Apache Software Foundation, Lang Copyright 2001-2011 The Apache Software Foundation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/spdx-tools@0.8.3"
+                }
+            ]
+        },
+        {
+            "name": "xmltodict",
+            "SPDXID": "SPDXRef-pypi-xmltodict-0.14.2-75c946",
+            "versionInfo": "0.14.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2012 Martin Blech and individual contributors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/xmltodict@0.14.2"
+                }
+            ]
+        },
+        {
+            "name": "rdflib",
+            "SPDXID": "SPDXRef-pypi-rdflib-7.1.3-75c946",
+            "versionInfo": "7.1.3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "copyrightText": "\u003chttp://purl.org/dc/elements/1.1/rights\u003e copyright (c) 2001 W3C, copyright (c) 2001 W3C, Copyright (c) 2002-2025, RDFLib Team, Copyright (c) 2004 Examples-R-Us, Copyright (c) 2009-2018, Gerhard Weis and contributors, Copyright (c) 2009, Gerhard Weis, Copyright (c) 2010 Charles Leifer, Eric Holscher, Bobby Grace, Copyright (c) 2011 Bay Citizen \u0026 Texas Tribune, Copyright (c) 2021, Hugo van Kemenade and contributors, Copyright (c) 2024, Ashley Sommer, and RDFLib contributors, Copyright (c) World Wide Web Consortium, (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University) and others, Copyright 2000-2007, World Wide, Copyright 2001, Zolera Systems Inc., copyright 2002 - 2025, RDFLib Team, Copyright 2007-2010 by the Sphinx team, Copyright 2007, Sean B. Palmer, Copyright 2010, Gunnar A. Grimnes, Copyright clause at \u003chttp://www.w3.org/Consortium/Legal/copyright-software.html\u003e, Copyright World Wide Web Consortium, (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University), Copyright World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University), Web Consortium. Copyright 2001",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/rdflib@7.1.3"
+                }
+            ]
+        },
+        {
+            "name": "mccabe",
+            "SPDXID": "SPDXRef-pypi-mccabe-0.7.0-75c946",
+            "versionInfo": "0.7.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2011-2013 Tarek Ziade \u003ctarek@ziade.org\u003e, Copyright (c) 2013 Florent Xicluna \u003cflorent.xicluna@gmail.com\u003e, Copyright (c) Ned Batchelder",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/mccabe@0.7.0"
+                }
+            ]
+        },
+        {
+            "name": "click",
+            "SPDXID": "SPDXRef-pypi-click-8.1.8-75c946",
+            "versionInfo": "8.1.8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+            "copyrightText": "Copyright 2001-2006 Gregory P. Ward, Copyright 2002-2006 Python Software Foundation, copyright 2014 Pallets, Copyright 2014 Pallets",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/click@8.1.8"
+                }
+            ]
+        },
+        {
+            "name": "tomlkit",
+            "SPDXID": "SPDXRef-pypi-tomlkit-0.13.2-75c946",
+            "versionInfo": "0.13.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2018 Sebastien Eustace, Copyright (c) 2018 TOML authors, copyright 2021, Sebastien Eustace, Copyright Rebecca Turner \u003cme@re-becca.org\u003e",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/tomlkit@0.13.2"
+                }
+            ]
+        },
+        {
+            "name": "colorama",
+            "SPDXID": "SPDXRef-pypi-colorama-0.4.6-75c946",
+            "versionInfo": "0.4.6",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+            "copyrightText": "Copyright (c) 2010 Jonathan Hartley, Copyright Jonathan Hartley \u0026 Arnon Yaari, 2013-2020, Copyright Jonathan Hartley 2013",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/colorama@0.4.6"
+                }
+            ]
+        },
+        {
+            "name": "iniconfig",
+            "SPDXID": "SPDXRef-pypi-iniconfig-2.0.0-75c946",
+            "versionInfo": "2.0.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) Ronny Pfannschmidt, Holger Krekel",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/iniconfig@2.0.0"
+                }
+            ]
+        },
+        {
+            "name": "boolean-py",
+            "SPDXID": "SPDXRef-pypi-boolean-py-4.0-75c946",
+            "versionInfo": "4.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/boolean-py@4.0"
+                }
+            ]
+        },
+        {
+            "name": "astroid",
+            "SPDXID": "SPDXRef-pypi-astroid-3.1.0-75c946",
+            "versionInfo": "3.1.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "copyrightText": "Copyright (c) 1991, 1999 Free Software Foundation, Inc., Copyright (c) https://github.com/pylint-dev/astroid/blob/main/CONTRIBUTORS.txt, copyrighted by the Free Software Foundation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/astroid@3.1.0"
+                }
+            ]
+        },
+        {
+            "name": "uritools",
+            "SPDXID": "SPDXRef-pypi-uritools-4.0.3-75c946",
+            "versionInfo": "4.0.3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2014-2023 Thomas Kemmer, Copyright (c) 2014-2024 Thomas Kemmer, copyright 2014-2024 Thomas Kemmer",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/uritools@4.0.3"
+                }
+            ]
+        },
+        {
+            "name": "packaging",
+            "SPDXID": "SPDXRef-pypi-packaging-24.2-75c946",
+            "versionInfo": "24.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-2-Clause",
+            "copyrightText": "Copyright (c) 2017-present Ofek Lev \u003coss@ofek.dev\u003e, Copyright (c) Donald Stufft and individual contributors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/packaging@24.2"
+                }
+            ]
+        },
+        {
+            "name": "actions/setup-python",
+            "SPDXID": "SPDXRef-githubactions-actions-setup-python-82c7e631bb3cdc910f68e0081d67478d79c6982d-75c946",
+            "versionInfo": "82c7e631bb3cdc910f68e0081d67478d79c6982d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d"
+                }
+            ]
+        },
+        {
+            "name": "actions/checkout",
+            "SPDXID": "SPDXRef-githubactions-actions-checkout-1d96c772d19495a3b5c517cd2bc0cb401ea0529f-75c946",
+            "versionInfo": "1d96c772d19495a3b5c517cd2bc0cb401ea0529f",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/actions/checkout@1d96c772d19495a3b5c517cd2bc0cb401ea0529f"
+                }
+            ]
+        },
+        {
+            "name": "google-github-actions/release-please-action",
+            "SPDXID": "SPDXRef-githubactions-google-github-actions-release-please-action-a37ac6e4f6449ce8b3f7607e4d97d0146028dc0b-75c946",
+            "versionInfo": "a37ac6e4f6449ce8b3f7607e4d97d0146028dc0b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/google-github-actions/release-please-action@a37ac6e4f6449ce8b3f7607e4d97d0146028dc0b"
+                }
+            ]
+        },
+        {
+            "name": "philips-software/docker-ci-scripts",
+            "SPDXID": "SPDXRef-githubactions-philips-software-docker-ci-scripts-d0045b844f08b0dcb4c62bd4acf6c36877404dae-75c946",
+            "versionInfo": "d0045b844f08b0dcb4c62bd4acf6c36877404dae",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/philips-software/docker-ci-scripts@d0045b844f08b0dcb4c62bd4acf6c36877404dae"
+                }
+            ]
+        },
+        {
+            "name": "pypa/gh-action-pypi-publish",
+            "SPDXID": "SPDXRef-githubactions-pypa-gh-action-pypi-publish-81e9d935c883d0b210363ab89cf05f3894778450-75c946",
+            "versionInfo": "81e9d935c883d0b210363ab89cf05f3894778450",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/pypa/gh-action-pypi-publish@81e9d935c883d0b210363ab89cf05f3894778450"
+                }
+            ]
+        },
+        {
+            "name": "com.github.philips-software/SPDXMerge",
+            "SPDXID": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "versionInfo": "main",
+            "downloadLocation": "git+https://github.com/philips-software/SPDXMerge",
+            "filesAnalyzed": false,
+            "licenseDeclared": "MIT",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:github/philips-software/SPDXMerge@main"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-pluggy-1.5.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-beartype-0.20.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-semantic-version-2.10.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-uritools-4.0.3-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-githubactions-actions-setup-python-82c7e631bb3cdc910f68e0081d67478d79c6982d-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-githubactions-philips-software-docker-ci-scripts-d0045b844f08b0dcb4c62bd4acf6c36877404dae-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-pyparsing-3.2.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-ply-3.11-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-isort-5.13.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-dill-0.3.9-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-rdflib-7.1.3-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-githubactions-actions-checkout-1d96c772d19495a3b5c517cd2bc0cb401ea0529f-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-iniconfig-2.0.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-pylint-3.1.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-pyyaml-6.0.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-xmltodict-0.14.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-colorama-0.4.6-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-astroid-3.1.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-githubactions-pypa-gh-action-pypi-publish-81e9d935c883d0b210363ab89cf05f3894778450-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-license-expression-30.4.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-click-8.1.8-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-platformdirs-4.3.6-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-spdx-tools-0.8.3-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-mccabe-0.7.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-packaging-24.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-githubactions-google-github-actions-release-please-action-a37ac6e4f6449ce8b3f7607e4d97d0146028dc0b-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-pytest-8.1.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-tomlkit-0.13.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relatedSpdxElement": "SPDXRef-pypi-boolean-py-4.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-github-philips-software-SPDXMerge-main-aa4aab",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

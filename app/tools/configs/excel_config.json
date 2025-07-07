@@ -1,0 +1,42 @@
+{
+    "psvarTemplatePath": "PSVAR Template.xlsx",
+    "excelSheets": {
+        "Analysis": [
+            "Review date (YYYY-MM-DD)",
+            "Component name",
+            "Component version",
+            "Vulnerability ID (e.g. CVE)",
+            "Description",
+            "Base score",
+            "Exploitability",
+            "Impact",
+            "Remediation status",
+            "Remediation comment",
+            "Severity rating",
+            "Update PSSD?",
+            "Manage Defect requested?",
+            "Analysis Status",
+            "Analysis Justification",
+            "Analysis Response",
+            "Analysis Details",
+            "Analysis Internal Details"
+        ],
+        "Component overview": [
+                "Component name",
+                "Component version",
+                "Description",
+                "Support Status"
+        ],
+        "Summary": [
+            "Summary date",
+            "Summary description",
+            "Summary status"
+        ],
+        "Title Page": [
+            {
+            "Scope": "<Scope Description, Refer PSRA template for more details>",
+            "Assessment team":"<Provide details of assessment team, Refer PSRA template for more details>"
+            }
+        ]
+    }
+}

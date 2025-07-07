@@ -1,4 +1,9 @@
-note
+__pycache__
+
 *.env
+*.log
+
+note
 
 aienv/
+cache/
